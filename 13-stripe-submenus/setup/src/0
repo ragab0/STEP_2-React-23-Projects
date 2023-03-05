@@ -1,0 +1,39 @@
+import React from 'react'
+import logo from './images/logo.svg'
+import { FaBars } from 'react-icons/fa'
+
+const Navbar = () => {
+
+  const navs = ['products', 'developers', 'company'];
+
+  function mouseHandler(e) {
+    (e.target.textContent.toLocaleLowerCase())
+  }
+
+  function liGenerator(list) {
+    return (
+      list.map((item, i) => {
+        return (
+          <li key={i}>
+            <button className='link-btn' onMouseEnter={mouseHandler}>{item}</button> 
+          </li>
+        )
+      })
+    )
+  }
+
+  return (
+    <nav className='nav'>
+      <div className='nav-center'>
+        <div className='nav-header'>
+          <img className='nav-logo' src={logo} alt='logo' />
+          <button className='btn toggle-btn'>{<FaBars />}</button>
+        </div>
+        {/* <ul className='nav-links'>
+        </ul> */}
+        <button className='btn signin-btn'>Sign in</button>
+      </div>
+    </nav>)
+}
+
+export default Navbar
