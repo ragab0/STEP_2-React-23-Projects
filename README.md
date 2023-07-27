@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+# 23 React Projects
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### The Main React Course (full course):
+[React Course on udemy](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+Note: I didn't watch it;
 
-## Available Scripts
+#### The First 15 Projects Videos:
+[React 15 Projects freeCodeCamp (9 hours)](https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygURcmVhY3QgMTUgcHJvamVjdHM%3D)
+Note: I didn't watch the whole video, I just watched the beginning to understand the game, and i watched the parts those i didn't resolve them
+or those i was need to watch theme to learn more, as we know there are many ways to do a thing
 
-In the project directory, you can run:
+#### Live demo of All Projects here (from the main source):
+[Projects Site](https://react-projects.netlify.app/)
+Note: I didn't deploy the projects on a server, you just can see my code and compare it with the final code
+BUT to see the live demo, then see it from the main source :DD;
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Topics that i leanred:
 
-### `npm run build`
+#### useState:
+1. Birthday Reminder
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### useEffect and Conditional Rendering
+2. Tours
+3. Reviews
+4. Questions
+5. Menu
+6. Tabs
+7. Slider
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Forms
+8. Lorem Ipsum Generator
+9. Color Shades Generator
+10. Grocery Bud
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### useRef
+11. Navbar
 
-### `npm run eject`
+#### useContext
+12. Modal And Sidebar
+13. Stripe Submenus
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+#### useReducer and useContext
+14. Cart
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### React Router and useCallback
+15. Cocktails
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Advanced Projects (Course Exclusive):
+See the Main React Course;
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+16. Markdown Preview
+17. Random Person
+18. Pagination
+19. Stock Photos
+20. Dark Mode
+21. Movie DB
+22. Hacker News
+23. Quiz
