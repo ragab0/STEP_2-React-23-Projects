@@ -1,24 +1,22 @@
 # 23 React Projects
 
-#### The Main React Course (full course):
-[React Course on udemy](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-Note: I didn't watch it;
+#### The Main React Course:
+[React Course on udemy (the full udemy course)](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
-#### The First 15 Projects Videos:
+#### The First 15 Projects:
 [React 15 Projects freeCodeCamp (9 hours)](https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygURcmVhY3QgMTUgcHJvamVjdHM%3D)
-Note: I didn't watch the whole video, I just watched the beginning to understand the game, and i watched the parts those i didn't resolve them
-or those i was need to watch theme to learn more, as we know there are many ways to do a thing
 
 #### Live demo of All Projects here (from the main source):
 [Projects Site](https://react-projects.netlify.app/)
 Note: I didn't deploy the projects on a server, you just can see my code and compare it with the final code
 BUT to see the live demo, then see it from the main source :DD;
+My code is written at the "setup" folder, and the final code that i was compare with it is exist in the "final" director for each app in the apps. You can see both directors and compare them or you can see my soluiton and how i think to solve a problem ..;
 
 
 
 
 
-## Topics that i leanred:
+## The Topics that i leanred:
 
 #### useState:
 1. Birthday Reminder
@@ -50,8 +48,6 @@ BUT to see the live demo, then see it from the main source :DD;
 15. Cocktails
 
 ## Advanced Projects (Course Exclusive):
-See the Main React Course;
-
 16. Markdown Preview
 17. Random Person
 18. Pagination
