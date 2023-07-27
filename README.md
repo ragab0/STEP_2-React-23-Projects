@@ -1,16 +1,19 @@
-# 23 React Projects
+# My first 21 React apps
 
 #### The Main React Course:
-[React Course on udemy (the full udemy course)](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+[React Course on udemy (the full course)](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 #### The First 15 Projects:
-[React 15 Projects freeCodeCamp (9 hours)](https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygURcmVhY3QgMTUgcHJvamVjdHM%3D)
+[React 15 Projects freeCodeCamp (on youtube!) - 9hr](https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygURcmVhY3QgMTUgcHJvamVjdHM%3D)
 
 #### Live demo of All Projects here (from the main source):
 [Projects Site](https://react-projects.netlify.app/)
+
+#### How to read the repo and compare my soluitions:
 Note: I didn't deploy the projects on a server, you just can see my code and compare it with the final code
 BUT to see the live demo, then see it from the main source :DD;
-My code is written at the "setup" folder, and the final code that i was compare with it is exist in the "final" director for each app in the apps. You can see both directors and compare them or you can see my soluiton and how i think to solve a problem ..;
+My code is written at the "setup" folder, and the final code that i was compare with it is exist in the "final" director for each app in the apps. You can see both directors and compare them or you can see my soluiton and how i think to solve a problem ..; be fare when you compare my code, remember it its my first 
+codes that i wrote in React, So they may be not as good as i write React know :`))`;
 
 
 
