@@ -9,7 +9,7 @@ function App() {
   return (
     <main>
         <Routes>
-          <Route path='/' element={<Home />} />
+          <Route path='21-movie-db' element={<Home />} />
           <Route path='/movies/:id' element={<Movie />} />
           <Route path='*' element={<Error />} />
         </Routes>

@@ -18,7 +18,7 @@ const Cocktail = ({acook}) => {
         <h4>{strCategory}</h4>
         <p>{strAlcoholic}</p>
         {/* <div onClick={() => setCurrentSingle(acook)} style={{display: 'inline-block'}}> */}
-          <Link to={`/cooktail/${idDrink}`}className='btn btn-primary btn-details'>
+          <Link to={`cooktail/${idDrink}`}className='btn btn-primary btn-details'>
             details
           </Link>
         {/* </div> */}

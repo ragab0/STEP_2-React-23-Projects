@@ -1,6 +1,10 @@
-# Step_2: My 21 React apps;
-The first half of this phase i've learned React hooks, and in the other half i've practiced by creating 21 React apps beside the small apps
-that i've built while i was learning.   
+# STEP_2: My 21 React apps + 1;
+A project consists of 21 project !!
+
+The first half of this phase i've learned React hooks, and in the other half i've practiced by 
+creating 21 React app + 1 beside the small apps that i've built while i was learning. 
+
+
 I've learned the hooks:
 - useState
 - useEffect
@@ -9,33 +13,36 @@ I've learned the hooks:
 - useReducer 
 - useContext
 - useCallback
+
+I've learned more about
+- Forms
+- Routing
 <br />
 <br />
 <br />
-___
 
 
-## Live demo of All Projects
-[Projects Site (the main source)](https://react-projects.netlify.app/)
-
-Note: I didn't deploy the projects on a server, you just can see my code and compare it with the final code
-BUT to see the live demo, then see it from the main source :DD;
-<br />
-<br />
-<br />
-___
 
 ## How to read the repo and compare my soluitions:
-My code is written at the **setup** folder of each app, threr are also the **final** folder, which has the code that i was compare with, its written by the teacher hemself **John smilga the good teacher**. You can see both directors and compare them or you can see my soluiton and how i think to solve a problem ..; be fare when you compare, it is my first 
+---
+My code is written at the **setup** folder of each app, ther are also the **final** folder, which has the code that i was compare with, its written by the teacher by hemself **John smilga the good teacher**. 
+
+You can see both directors and compare them or you can see my soluiton and how i think to solve a problem ..
+
+be fare when you compare, they are my first 
 codes that i wrote in React, So they may be not as good as i write React know :`))`;
 
+Note: Since i grouped the all apps in one place in one project, I did some change to make it suitable
+in its new environment LIKe using lazy load when you enter any app of the apps, changing absoluite paths to
+relative paths, and so on ...
+
 <br />
 <br />
 <br />
 
-___
 
-# The Topics that i've leanred:
+
+# I've leanred in
 
 ### The First Projects:   
 - [React 15 Projects on freeCodeCamp (on youtube!) - 9hr](https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygURcmVhY3QgMTUgcHJvamVjdHM%3D)
@@ -44,10 +51,10 @@ ___
 ### the advanced projects
 - they are not on youtube, they are on the main course on udem.
 - while i was coding, i noticed that, i wasn't need them, even the 9Hr video i didn't watch it, i just watched may be 1Hr or 2Hr (the biggening and the topics that i was need to learn more about them)
+<br />    
+<br />    
 
-<br />    
-<br />    
-<br />    
+# Topics that I'm leanring
 
 #### useState:
 1. Birthday Reminder

@@ -32,7 +32,7 @@ const SingleCocktail = () => {
 
   return (
     <section className='section cocktail-section'>
-      <Link to='/' className='btn btn-primary'>
+      <Link to='/15-cocktails' className='btn btn-primary'>
         back home
       </Link>
       <h2 className='section-title'>{strDrink}</h2>

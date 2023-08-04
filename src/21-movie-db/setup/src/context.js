@@ -7,7 +7,7 @@ const AppContext = React.createContext();
 function AppProvider({ children }) {
   const [data, setData] = useState([{Poster:ERROR_URL, Title:'Error', Year:null, imdbID:null}]);  
   const [error, setError] = useState(false);
-  const [inpVal, setInpVal] = useState('Batman');
+  const [inpVal, setInpVal] = useState('Godfather');
   const [loading, setLoading] = useState(true);
 
 

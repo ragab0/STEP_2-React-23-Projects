@@ -1,8 +1,10 @@
 {
-  "name": "step_2-my-21-react-apps",
-  "version": "0.1.0",
+  "name": "21-react-apps",
+  "description": "STEP_2: My 21-react-apps to practice on React Hooks",
+  "version": "2.1.0",
   "private": true,
   "dependencies": {
+    "@reach/router": "^1.3.4",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",

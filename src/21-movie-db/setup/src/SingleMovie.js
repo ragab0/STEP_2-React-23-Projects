@@ -32,7 +32,7 @@ const SingleMovie = () => {
           <h2>{Title}</h2>
           <p>{Plot}</p>
           <h4>{Year}</h4>
-          <Link to='/' className='btn'>back to movies</Link>
+          <Link to='/21-movie-db' className='btn'>back to movies</Link>
         </div>
       </section>
     </>
