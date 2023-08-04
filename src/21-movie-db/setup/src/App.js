@@ -9,9 +9,9 @@ function App() {
   return (
     <main>
         <Routes>
-          <Route path='21-movie-db' element={<Home />} />
-          <Route path='/movies/:id' element={<Movie />} />
-          <Route path='*' element={<Error />} />
+          <Route path='/21-movie-db' element={<Home />} />
+          <Route path='/21-movie-db/movies/:id' element={<Movie />} />
+          <Route path='21-movie-db/*' element={<Error />} />
         </Routes>
     </main>
   )

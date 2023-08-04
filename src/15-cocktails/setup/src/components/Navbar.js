@@ -6,15 +6,15 @@ const Navbar = () => {
   return (
     <nav className='navbar'>
       <div className='nav-center'>
-        <Link to=''>
+        <Link to='/15-cocktails'>
           <img src={logo} alt='' className='logo'/>
         </Link>
         <ul className='nav-links'>
           <li>
-            <Link to=''>home</Link>
+            <Link to='/15-cocktails'>home</Link>
           </li>
           <li>
-            <Link to='about'>about</Link>
+            <Link to='/15-cocktails/about'>about</Link>
           </li>
         </ul>
       </div>
