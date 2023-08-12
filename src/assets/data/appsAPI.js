@@ -8,6 +8,7 @@ import App_05_img from "../imgs/05.png";
 import App_06_img from "../imgs/06.png";
 import App_07_img from "../imgs/07.png";
 import App_08_img from "../imgs/08.png";
+import App_09_img from "../imgs/09.png";
 import App_10_img from "../imgs/10.png";
 import App_11_img from "../imgs/11.png";
 import App_12_img from "../imgs/12.png";
@@ -21,6 +22,7 @@ import App_19_img from "../imgs/19.png";
 import App_20_img from "../imgs/20.png";
 import App_21_img from "../imgs/21.png";
 import App_22_img from "../imgs/22.png";
+import App_23_img from "../imgs/23.png";
 
 let App_01 = lazy(() => import('../../01-birthday-reminder/setup/src/App'));
 let App_02 = lazy(() => import("../../02-tours/setup/src/App"));
@@ -30,6 +32,7 @@ let App_05 = lazy(() => import('../../05-menu/setup/src/App'));
 let App_06 = lazy(() => import('../../06-tabs/setup/src/App'));
 let App_07 = lazy(() => import('../../07-slider/setup/src/App'));
 let App_08 = lazy(() => import('../../08-lorem-ipsum/setup/src/App'));
+let App_09 = lazy(() => import('../../09-color-generator/setup/src/App'));
 let App_10 = lazy(() => import('../../10-grocery-bud/setup/src/App'));
 let App_11 = lazy(() => import('../../11-navbar/setup/src/App'));
 let App_12 = lazy(() => import('../../12-sidebar-modal/setup/src/App'));
@@ -43,6 +46,7 @@ let App_19 =  lazy(() => import('../../19-stock-photos/setup/src/App'));
 let App_20 =  lazy(() => import('../../20-dark-mode/setup/src/App'));
 let App_21 =  lazy(() => import('../../21-movie-db/setup/src/index'));
 let App_22 =  lazy(() => import('../../22-hacker-news/setup/src/App'));
+let App_23 =  lazy(() => import('../../23-quiz/setup/src/App'));
 
 export const appsAPI = [
   [
@@ -94,6 +98,12 @@ export const appsAPI = [
       Comp: App_08,
       srcImg: App_08_img,
       link: "08-lorem-ipsum",
+    },{
+      name: "color-generator",
+      description: "",
+      Comp: App_09,
+      srcImg: App_09_img,
+      link: "09-color-generator",
     },{
       name: "grocery-bud",
       description: "",
@@ -176,6 +186,12 @@ export const appsAPI = [
       Comp: App_22,
       srcImg: App_22_img,
       link: "22-hacker-news",
+    },{
+      name: "quiz-app",
+      description: "",
+      Comp: App_23,
+      srcImg: App_23_img,
+      link: "23-quiz",
     }
   ],
 ]

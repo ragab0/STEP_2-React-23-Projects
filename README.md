@@ -1,11 +1,12 @@
-# STEP_2: My 21 React apps + 1;
-A project consists of 21 project !!
+# STEP_2: My 23 React apps + 1;
+
+#### A project consists of 23 project !!
 
 The first half of this phase i've learned React hooks, and in the other half i've practiced by 
-creating 21 React app + 1 beside the small apps that i've built while i was learning. 
+creating 23 React app + 1 beside the small apps that i've built while i was learning. 
 
 
-I've learned the hooks:
+#### I've learned the hooks:
 - useState
 - useEffect
 - useRef
@@ -14,17 +15,31 @@ I've learned the hooks:
 - useContext
 - useCallback
 
-I've learned more about
+#### I've learned more about
 - Forms
 - Routing
 <br />
 <br />
 <br />
 
+## Main sources that i used
+
+#### React Course
+
+[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+
+#### Tutorial Video
+
+[React Tutorial](https://youtu.be/iZhV0bILFb0)
+
+#### All Projects
+
+[Projects Site](https://react-projects.netlify.app/)
+
 
 
 ## How to read the repo and compare my soluitions:
----
+
 My code is written at the **setup** folder of each app, ther are also the **final** folder, which has the code that i was compare with, its written by the teacher by hemself **John smilga the good teacher**. 
 
 You can see both directors and compare them or you can see my soluiton and how i think to solve a problem ..
