@@ -1,15 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import { AppProvider } from './context';
+import { AppProvider } from "./utils/context";
+import App from "./App";
+import "./index.css";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
 
-root.render(
-  <React.StrictMode>
+
+export default function Quiz() {
+  return (
     <AppProvider>
       <App />
-    </AppProvider>
-  </React.StrictMode>
-);
+    </AppProvider> 
+  );
+}

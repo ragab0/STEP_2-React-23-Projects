@@ -182,9 +182,13 @@ main {
     max-width: 60%;
   }
 }
+.active,
 .answer-btn:hover {
   background: var(--clr-primary-5);
   color: var(--clr-white);
+}
+.disabled {
+  opacity: .3;
 }
 .correct-answers {
   font-size: 1rem;

@@ -1,80 +1,48 @@
-# STEP_2: My 23 React apps + 1;
+# STEP_2;
+My second step on learning React. Bulding A 23 React apps + 1 in React to practice. It is about project consists of 23 different projects.
 
-#### A project consists of 23 project !!
+![a](./step-2.png)
 
-The first half of this phase i've learned React hooks, and in the other half i've practiced by 
-creating 23 React app + 1 beside the small apps that i've built while i was learning. 
-
-
-#### I've learned the hooks:
+## The Goal: 
+---
+Improving and learning new react hooks like:
 - useState
 - useEffect
 - useRef
 - useContext
 - useReducer 
-- useContext
 - useCallback
 
-#### I've learned more about
-- Forms
-- Routing
-<br />
-<br />
-<br />
-
-## Main sources that i used
-
-#### React Course
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Tutorial Video
-
-[React Tutorial](https://youtu.be/iZhV0bILFb0)
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
+Practicing on different react aspects too like:
+- Forms in react
+- Routing in react
 
 
 
-## How to read the repo and compare my soluitions:
+## How to use\read the repo:
+---
+My code is written inside the **setup** folder of each app, ther are also the **final** folder besides, which has the main code that i was compare with, its written by **John smilga the great instructore**  You can see both directors and compare them or you can see my soluiton and how i think to solve a problem
 
-My code is written at the **setup** folder of each app, ther are also the **final** folder, which has the code that i was compare with, its written by the teacher by hemself **John smilga the good teacher**. 
-
-You can see both directors and compare them or you can see my soluiton and how i think to solve a problem ..
-
-be fare when you compare, they are my first 
+**Note** be fare when you compare, they are my first 
 codes that i wrote in React, So they may be not as good as i write React know :`))`;
 
-Note: Since i grouped the all apps in one place in one project, I did some change to make it suitable
-in its new environment LIKe using lazy load when you enter any app of the apps, changing absoluite paths to
-relative paths, and so on ...
-
-<br />
-<br />
-<br />
 
 
+## Sources
+---
+- [Youtube Tutorial Video](https://youtu.be/iZhV0bILFb0) of first 15 apps. They are available on YouTube
+- [Udemy Course Videos](https://www.udemy.com/course/react-tutorial-and-projects-course/) for the 16:23 apps, last 7 apps. They exclusive only for course subscribers (The videos BUT assets and sources are availble on the main repo with both final and setup files)
+- View: [Projects Main Site](https://react-projects.netlify.app/)
+- View: [Project Main Repo](https://github.com/john-smilga/react-projects)
 
-# I've leanred in
-
-### The First Projects:   
-- [React 15 Projects on freeCodeCamp (on youtube!) - 9hr](https://www.youtube.com/watch?v=a_7Z7C_JCyo&pp=ygURcmVhY3QgMTUgcHJvamVjdHM%3D)
 
 
-### the advanced projects
-- they are not on youtube, they are on the main course on udem.
-- while i was coding, i noticed that, i wasn't need them, even the 9Hr video i didn't watch it, i just watched may be 1Hr or 2Hr (the biggening and the topics that i was need to learn more about them)
-<br />    
-<br />    
-
-# Topics that I'm leanring
-
+## About Apps
+---
 #### useState:
 1. Birthday Reminder
 
-#### useEffect and Conditional Rendering
+#### useEffect and Conditional Rendering: 
 2. Tours
 3. Reviews
 4. Questions
@@ -84,7 +52,7 @@ relative paths, and so on ...
 
 #### Forms
 8. Lorem Ipsum Generator
-9. Color Shades Generator ***(I didn't complete it then). I wasn't have internet then :DD***
+9. Color Shades Generator
 10. Grocery Bud
 
 #### useRef
@@ -100,9 +68,7 @@ relative paths, and so on ...
 #### React Router and useCallback
 15. Cocktails
 
-## Advanced Projects (Course Exclusive):
-
-
+#### Advanced Projects ():
 16. Markdown Preview
 17. Random Person
 18. Pagination
@@ -110,4 +76,4 @@ relative paths, and so on ...
 20. Dark Mode
 21. Movie DB
 22. Hacker News
-23. Quiz ***(I didn't complete it then). it was enough to me :DD***
+23. Quiz

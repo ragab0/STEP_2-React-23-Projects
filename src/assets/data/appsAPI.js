@@ -46,7 +46,9 @@ let App_19 =  lazy(() => import('../../19-stock-photos/setup/src/App'));
 let App_20 =  lazy(() => import('../../20-dark-mode/setup/src/App'));
 let App_21 =  lazy(() => import('../../21-movie-db/setup/src/index'));
 let App_22 =  lazy(() => import('../../22-hacker-news/setup/src/App'));
-let App_23 =  lazy(() => import('../../23-quiz/setup/src/App'));
+let App_23 =  lazy(() => import('../../23-quiz/setup/src/index')); /** My app */
+// let App_23 =  lazy(() => import('../../23-quiz/final/src/index')); /** Finall app */
+
 
 export const appsAPI = [
   [
@@ -195,14 +197,6 @@ export const appsAPI = [
     }
   ],
 ]
-
-
-
-
-
-
-
-
 
 
 
