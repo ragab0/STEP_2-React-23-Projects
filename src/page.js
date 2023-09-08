@@ -1,31 +1,47 @@
 import React from "react";
 import Apps from "./apps";
-import svg from "./assets/hero.svg"
 
-export default function Page({apps, appsAdvanced}) {
+
+export default function Page({pops, apps, appsAdvanced}) {
   return (
     <main>
       <header>
-        <div className="hero-title">
-          <h1>React Projects</h1>
-          <p>Projects are the most practical way to learn any language, and<span> React </span> is no exception. 
-            Solidify your knowledge of React by creating these cool projects.
-          </p>
-          <button className="btn hero-btn">21 App + 1</button>
-        </div>
         <div className="img-container">
-          <object data={svg} aria-label="Hero img" />
+          <img alt="ragab-img" src="/ragab.jpg" />
         </div>
+        <div className="hero-title">
+          <h1>First Apps</h1>
+          <p style={{maxWidth:"400px"}}>
+            My first apps that i was apply on while learning
+          </p>
+          <ol>
+            <li>React Fundamentals with Pop-zroll</li>
+            <li>Advanced React Hooks with John-Smilga</li>
+            <li>React-Router-Dom  with John-Smilga</li>
+            <li>Advanced React-Router-Dom  with Pop-zroll ! V2;</li>
+          </ol>
+          <button className="btn hero-btn">Explore now !</button>
+
+        </div>
+        
       </header>
       <section>
         <div className="title">
+          <h2>First (5)</h2>
+          <h5>React Fundamentals with pop-zroll</h5>
+        </div>
+        <Apps apps={pops} />
+      </section>
+      <section>
+        <div className="title">
           <h2>Fundamental Projects</h2>
+          <h5>React-Projects: (React, React-Hooks, React-Router-Dom)</h5>
         </div>
         <Apps apps={apps} />
       </section>
       <section>
         <div className="title">
-          <h2>Advanced Projects</h2>
+          <h2>Next Projects</h2>
         </div>
         <Apps apps={appsAdvanced} />
       </section>

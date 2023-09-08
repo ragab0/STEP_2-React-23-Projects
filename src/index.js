@@ -1,4 +1,4 @@
-import React, { Suspense, lazy } from 'react';
+import React, { lazy } from 'react';
 import ReactDOM from 'react-dom/client';
 import { Router } from "@reach/router"
 import { appsAPI } from './assets/data/appsAPI';
@@ -13,7 +13,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Router>
-        <Page path="/" apps={appsAPI[0]} appsAdvanced={appsAPI[1]} />
+        <Page path="/" pops={appsAPI[0]} apps={appsAPI[1]} appsAdvanced={appsAPI[2]} />
           {
             appsAPI.map((apps, i) => (
               apps.map(({link, Comp}, i) => (

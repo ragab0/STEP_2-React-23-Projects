@@ -1,79 +1,33 @@
-# STEP_2;
-My second step on learning React. Bulding A 23 React apps + 1 in React to practice. It is about project consists of 23 different projects.
+# First-React-Apps;
+My first React apps, built on learning and applying on React.
 
-![a](./step-2.png)
+![first-react-app-website](./first-react-apps.png)
+![first-react-app-website-2](./first-react-apps-2.png)
 
-## The Goal: 
+
+## React Learning Sources
 ---
-Improving and learning new react hooks like:
-- useState
-- useEffect
-- useRef
-- useContext
-- useReducer 
-- useCallback
-
-Practicing on different react aspects too like:
-- Forms in react
-- Routing in react
 
 
+1. STEP_01: [12Hr video tutorial](https://www.google.com/search?sca_esv=563740992&q=Learn+react&tbm=vid&source=lnms&sa=X&ved=2ahUKEwj_gdXrqpuBAxXQywIHHVQZBl8Q0pQJegQIDBAB&biw=1848&bih=949#fpstate=ive&vld=cid:a8b6fae0,vid:bMknfKXIFA8) Learning React and building My first 5 app with - pop-zroll - on 12Hr video tutorial on [freeCodeCamp](https://www.youtube.com/@freecodecamp) or on [scrimba.com](https://scrimba.com)
 
-## How to use\read the repo:
----
-My code is written inside the **setup** folder of each app, ther are also the **final** folder besides, which has the main code that i was compare with, its written by **John smilga the great instructore**  You can see both directors and compare them or you can see my soluiton and how i think to solve a problem
+- STEP_02: [30+ Videos Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A) Learning the advanced React-Hooks with John-Smilga and then bulding 23 React app
 
-**Note** be fare when you compare, they are my first 
-codes that i wrote in React, So they may be not as good as i write React know :`))`;
+- STEP_03: [15 React apps](https://youtu.be/iZhV0bILFb0) 15 apps to apply on the first half of the prev series (step_02 - React-Hooks) specially on
+    - useState
+    - useEffect
+    - useRef
+    - useReducer
+    - useContext
+    <br >
+    <br >
+    
+- STEP_04: [15 Tutorials]() in Learn React-Router-Dom
 
+- STEP_05: Creating more than +5 React app which titled **Buil React advanced apps** with John-Smila on [Udemy](https://www.udemy.com/course/react-tutorial-and-projects-course/) ... thier sources are available on [Github](https://github.com/john-smilga/react-projects) - ***For me the sources was enough to me***;
 
+- STEP_06: [+30 Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjmgBr1327BA5bVXoQH-w5s) in learning react-hook-form with John-Smilga on youtube;
 
-## Sources
----
-- [Youtube Tutorial Video](https://youtu.be/iZhV0bILFb0) of first 15 apps. They are available on YouTube
-- [Udemy Course Videos](https://www.udemy.com/course/react-tutorial-and-projects-course/) for the 16:23 apps, last 7 apps. They exclusive only for course subscribers (The videos BUT assets and sources are availble on the main repo with both final and setup files)
-- View: [Projects Main Site](https://react-projects.netlify.app/)
-- View: [Project Main Repo](https://github.com/john-smilga/react-projects)
+- STEP_07: [+9Hr Tutorials](https://scrimba.com/learn/reactrouter6/search-params-intro-coa3e45368b6a832ecd0cd068) on Learning react-router-dom with Pop-zroll on scrimba;
 
-
-
-## About Apps
----
-#### useState:
-1. Birthday Reminder
-
-#### useEffect and Conditional Rendering: 
-2. Tours
-3. Reviews
-4. Questions
-5. Menu
-6. Tabs
-7. Slider
-
-#### Forms
-8. Lorem Ipsum Generator
-9. Color Shades Generator
-10. Grocery Bud
-
-#### useRef
-11. Navbar
-
-#### useContext
-12. Modal And Sidebar
-13. Stripe Submenus
-
-#### useReducer and useContext
-14. Cart
-
-#### React Router and useCallback
-15. Cocktails
-
-#### Advanced Projects ():
-16. Markdown Preview
-17. Random Person
-18. Pagination
-19. Stock Photos
-20. Dark Mode
-21. Movie DB
-22. Hacker News
-23. Quiz
+- STEP_08 + STEP(3.5): [30 Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK) Cnoketubg Learning Redux, Redux toolkit, and react-redux with John-Smilga on youtube - as we took a look at the step of 3.5 and 4.5 as the syntax was need some time to get famillar with;

@@ -1,5 +1,13 @@
 import { lazy } from "react";
 
+
+import Pop_01_img from "../imgs/pop/01.png";
+import Pop_02_img from "../imgs/pop/02.png";
+import Pop_03_img from "../imgs/pop/03.png";
+import Pop_04_img from "../imgs/pop/04.png";
+import Pop_05_img from "../imgs/pop/05.png";
+
+
 import App_01_img from "../imgs/01.png";
 import App_02_img from "../imgs/02.png";
 import App_03_img from "../imgs/03.png";
@@ -23,6 +31,15 @@ import App_20_img from "../imgs/20.png";
 import App_21_img from "../imgs/21.png";
 import App_22_img from "../imgs/22.png";
 import App_23_img from "../imgs/23.png";
+
+
+
+let Pop_01 = lazy(() => import("../../0Pop-zroll-apps/01-First-Scrim/app"));
+let Pop_02 = lazy(() => import("../../0Pop-zroll-apps/02-Sec-Scrim/app"));
+let Pop_03 = lazy(() => import("../../0Pop-zroll-apps/03-Third-Scrim/app"));
+let Pop_04 = lazy(() => import("../../0Pop-zroll-apps/04-Fourth-Scrim/app"));
+let Pop_05 = lazy(() => import("../../0Pop-zroll-apps/05-md-editor/app"));
+
 
 let App_01 = lazy(() => import('../../01-birthday-reminder/setup/src/App'));
 let App_02 = lazy(() => import("../../02-tours/setup/src/App"));
@@ -51,6 +68,38 @@ let App_23 =  lazy(() => import('../../23-quiz/setup/src/index')); /** My app */
 
 
 export const appsAPI = [
+  [
+    {
+      link: "0Pop-zroll-apps/01-First-Scrim",
+      Comp: Pop_01,
+      srcImg: Pop_01_img,
+      name: "pop-01"
+    },
+    {
+      link: "0Pop-zroll-apps/02-Sec-Scrim",
+      Comp: Pop_02,
+      srcImg: Pop_02_img,
+      name: "pop-02"
+    },
+    {
+      link: "0Pop-zroll-apps/03-Third-Scrim",
+      Comp: Pop_03,
+      srcImg: Pop_03_img,
+      name: "pop-03"
+    },
+    {
+      link: "0Pop-zroll-apps/04-Fourth-Scrim",
+      Comp: Pop_04,
+      srcImg: Pop_04_img,
+      name: "pop-04"
+    },
+    {
+      link: "0Pop-zroll-apps/05-Fifth-Scrim",
+      Comp: Pop_05,
+      srcImg: Pop_05_img,
+      name: "pop-05"
+    },
+  ],
   [
     {
       name: "birthday",
@@ -100,13 +149,15 @@ export const appsAPI = [
       Comp: App_08,
       srcImg: App_08_img,
       link: "08-lorem-ipsum",
-    },{
-      name: "color-generator",
-      description: "",
-      Comp: App_09,
-      srcImg: App_09_img,
-      link: "09-color-generator",
-    },{
+    }
+    // ,{
+    //   name: "color-generator",
+    //   description: "",
+    //   Comp: App_09,
+    //   srcImg: App_09_img,
+    //   link: "09-color-generator",
+    // }
+    ,{
       name: "grocery-bud",
       description: "",
       Comp: App_10,
